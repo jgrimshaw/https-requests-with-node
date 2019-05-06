@@ -19,7 +19,6 @@ https.get(requestOptions, function(response){
     console.log(chunk.length)
     console.log(chunk + '\n')
   })
-
 })
 }
 
